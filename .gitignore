@@ -1,0 +1,18 @@
+# Ignore virtual environment
+sales_analysis_env/
+env/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore IDE files
+.vscode/
+.idea/
